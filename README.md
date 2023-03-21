@@ -46,6 +46,8 @@ In order to compile/build the project, run the build batch file for Win32 or x64
 If compiling for x64 OS, you can use the run batch file, or you can go to the /build directory and run the application.   
 If compiling for x86 OS, you and go to the /build/debug directory and run the application from there. 
 
+For use with the iAStudio Simulator, comment the HIMC_ConnectCtrl and uncomment HIMC_ConnectToSimulator
+
 ## How to change Application (.exe) Name:
 Open build/x64/CMakeLists.txt or build/Win32/CMakeLists.txt  
 In line 2, change the "HADESApp" to "<desired app name goes here>"
