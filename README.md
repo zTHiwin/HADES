@@ -2,7 +2,7 @@
 
 HADES is a project directory system which makes use of batch files, cmake, make or visual studios,
     in order to make, build and run your applications which include the HIwin Motion Controller (HIMC). For use with the Simulator, install the  
-    HIMC companion application iAStudio2.0.1 from: ```https://www.hiwinmikro.tw/Handlers/DownloadFile.ashx?id=ba60a075-b44b-48eb-925f-411c4e45141c&lang=en```
+    HIMC companion application iAStudio2.0.1 from: ```bash https://www.hiwinmikro.tw/Handlers/DownloadFile.ashx?id=ba60a075-b44b-48eb-925f-411c4e45141c&lang=en```
 
 ## Usage:
 
