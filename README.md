@@ -57,3 +57,5 @@ For use with the iAStudio Simulator, comment the HIMC_ConnectCtrl and uncomment 
 ## How to change Application (.exe) Name:
 Open build/x64/CMakeLists.txt or build/Win32/CMakeLists.txt  
 In line 2, change the "HADESApp" to "desired app name goes here"
+
+The file name will also need to be added to the run.bat file in order to target the proper x64 exe. 
