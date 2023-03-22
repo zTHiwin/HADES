@@ -1,6 +1,7 @@
 #include <iostream>
 #include "HIMC_API.h"
 #include <string>
+#include <cstring>
 
 void EventCallBackFunction(int);
 void ErrorCallBackFunction(int);
