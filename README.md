@@ -44,7 +44,7 @@ C:\ProgramData\chocolatey\lib\make
 C:\Program Files\CMake**
   
 **Then add the following binary directory addresses to the PATH in the environmental variables:  
-C:\mingw64\bin
+C:\mingw64\bin  
 C:\make\tools\install\bin  
 C:\CMake\bin**
 
