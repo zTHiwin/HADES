@@ -41,13 +41,12 @@ choco install make
 **In order to use these modules, the following directories will need to be added to C:\  
 C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64  
 C:\ProgramData\chocolatey\lib\make  
-C:\Program Files\CMake
+C:\Program Files\CMake**
   
-Then add the following binary directory addresses to the PATH in the environmental variables:  
+**Then add the following binary directory addresses to the PATH in the environmental variables:  
 C:\mingw64\bin
 C:\make\tools\install\bin  
-C:\CMake\bin  
-  **
+C:\CMake\bin**
 
 ## How to use HADES:
 
