@@ -38,9 +38,16 @@ choco install mingw
 choco install cmake  
 choco install make
 ```  
-**In order to use mingw64, go to the following path: C:\ProgramData\chocolatey\lib\mingw\tools\install\,  
-Copy the mingw64 folder to C:\  
-Add C:\mingw64\bin to PATH of environmental variables**
+**In order to use these modules, the following directories will need to be added to C:\  
+C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64  
+C:\ProgramData\chocolatey\lib\make  
+C:\Program Files\CMake
+  
+Then add the following binary directory addresses to the PATH in the environmental variables:  
+C:\mingw64\bin
+C:\make\tools\install\bin  
+C:\CMake\bin  
+  **
 
 ## How to use HADES:
 
